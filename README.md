@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ufetz
-- 👀 I’m interested in Computer Vision and Machine Learning
+- 👀 I’m interested in Robotics and Computer Vision
 
 <!---
 ufetz/ufetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
